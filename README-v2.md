@@ -43,7 +43,7 @@ It's key to remember that the overworld, nether and the end have separate world 
 ### Networking
 
 
-##### network-compression-threshold
+**network-compression-threshold**
 
 `Good starting value: 256`
 
